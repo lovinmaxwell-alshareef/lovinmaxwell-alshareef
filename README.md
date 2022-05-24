@@ -20,5 +20,5 @@ A Software Engineer 🚀
     </a>
 
 <div align="center">
-   <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lovinmaxwell-alshareef&theme=dark&layout=compact" /> <img width="48%" src="https://github-readme-stats.vercel.app/api?username=lovinmaxwell-alshareef&show_icons=true&theme=dark" />
+   <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lovinmaxwell&theme=dark&layout=compact" /> <img width="48%" src="https://github-readme-stats.vercel.app/api?username=lovinmaxwell&show_icons=true&theme=dark" />
 </div>
